@@ -58,7 +58,7 @@
 
     * [**Connect via LinkedIn**](https://www.linkedin.com/in/ravishankar--tiwari/)
 
-    * [**Visit my Website**](https://Ravishankar-Tiwari.github.io)
+    * [**Visit my Website**](https://www.datascienceportfol.io/ravishankartiwari)
     
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
